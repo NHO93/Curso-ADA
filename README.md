@@ -8,4 +8,5 @@ git commit => salvar o prjeto
 git diff => mostra o que foi adicionado/alterada
 git log => mostras os ultimos commits e os autores de cada um
 git restore => Remover alterações que foram feitas
-git push => 
+git push =>
+git remote origin =>
