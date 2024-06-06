@@ -6,7 +6,7 @@
 
 - [ ] git status => mostra a ultima atualização do commit
 
-- [ ]git add <Nome do Arquivo> => adicionar um arquino
+- [ ] git add <Nome do Arquivo> => adicionar um arquino
 
 - [ ] git commit => salvar o prjeto
 
